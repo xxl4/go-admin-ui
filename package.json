@@ -63,7 +63,7 @@
     "moment": "^2.27.0",
     "normalize.css": "8.0.1",
     "nprogress": "0.2.0",
-    "path-to-regexp": "6.1.0",
+    "path-to-regexp": "6.2.1",
     "remixicon": "^2.5.0",
     "sass-resources-loader": "^2.0.3",
     "screenfull": "5.0.2",
